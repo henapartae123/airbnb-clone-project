@@ -14,3 +14,7 @@ PostgreSQL: A powerful relational database used for data storage.
 GraphQL: Allows for flexible and efficient querying of data.
 Celery: For handling asynchronous tasks such as sending notifications or processing payments.
 Redis: Used for caching and session management.
+
+## Database Design
+  Authentication
+  --user: 
