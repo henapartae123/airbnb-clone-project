@@ -18,3 +18,11 @@ Redis: Used for caching and session management.
 ## Database Design
   Authentication
   --user: 
+
+## Feature Breakdown
+user management:
+  --user can signup and login
+  -- user can book a place through the platform
+booking system:
+  -- booking page to show details about the place
+  
