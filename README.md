@@ -25,4 +25,8 @@ user management:
   -- user can book a place through the platform
 booking system:
   -- booking page to show details about the place
+
+## API Security
+-- implements authentication and authorization to insure secure user information
+-- ratelimiting to secure server health
   
