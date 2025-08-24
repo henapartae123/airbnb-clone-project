@@ -29,4 +29,8 @@ booking system:
 ## API Security
 -- implements authentication and authorization to insure secure user information
 -- ratelimiting to secure server health
+
+## CI/CD Pipeline
+-- CI/CD stands for continous integration continous deployment. which is a practice that helps sustain code through the process.
+-- githubactions helps this process by documenting the changes in the code
   
